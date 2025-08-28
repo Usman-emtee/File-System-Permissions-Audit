@@ -1,7 +1,7 @@
 # File System Permissions Audit
 
 ## Overview
-This repository documents a file system permissions audit for a research team at a large organization, ensuring only authorized users have access to sensitive data. As a cybersecurity professional, I examined existing permissions, compared them to an authorization policy, modified permissions to align with security requirements, and documented findings. The project showcases my Python skills, problem-solving, and commitment to securing organizational assets, using a lab environment with screenshots as evidence.
+This repository documents a file system permissions audit for a research team at a large organization, ensuring only authorized users have access to sensitive data. As a cybersecurity professional, I examined existing permissions, compared them to an authorization policy, modified permissions to align with security requirements, and documented findings. The project showcases my problem-solving, and commitment to securing organizational assets, using a lab environment with screenshots as evidence.
 
 ## Objectives
 - Audit file system permissions for the research team’s directories.
