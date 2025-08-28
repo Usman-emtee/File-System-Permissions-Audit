@@ -14,10 +14,10 @@ This repository documents a file system permissions audit for a research team at
 - **Documentation**: PDF (audit report), Markdown, CSV, lab screenshots.
 
 ## Repository Structure
-- [audit-report.pdf](): Completed template detailing the audit process, findings, and recommendations.
+- [audit-report.pdf](https://github.com/Usman-emtee/File-System-Permissions-Audit/blob/main/audit-report.pdf): Completed template detailing the audit process, findings, and recommendations.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/File-System-Permissions-Audit.git`
+1. Clone the repository: `git clone https://github.com/usman-emtee/File-System-Permissions-Audit.git`
 2. Review the report in `audit-report.pdf`.
 
 ## Disclaimer
